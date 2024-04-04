@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjankande&label=Profile%20views&color=0e75b6&style=flat" alt="gunjankande" /> </p>
 
-- 💬 Ask me about Python , MySQL , Java , PoweBI ,
+- 💬 Ask me about Python , MySQL , Java , PoweBI , Tableau
 
 - 📫 How to reach me **gunjankande2002@gmail.com**
 
