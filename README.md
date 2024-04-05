@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **I am Funny**
 
+- 🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis. Let's turn data into knowledge together!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gunjan-kande-464921223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunjan-kande-464921223" height="30" width="40" /></a>
